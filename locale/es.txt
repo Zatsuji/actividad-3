@@ -1,0 +1,32 @@
+#: locale=es
+
+## Media
+
+### Imágen
+imlevel_5B5FDD07_4B73_9BE5_41C8_7DEE3FC9949B.url = media/popup_44DC07D3_4B6C_767D_41D0_F228F15564C6_es_0_0.webp
+imlevel_5B5FED07_4B73_9BE5_41C3_B7AA1CEE931E.url = media/popup_44DC07D3_4B6C_767D_41D0_F228F15564C6_es_0_1.webp
+imlevel_5B5FFD07_4B73_9BE5_41C4_371CB6318D82.url = media/popup_44DC07D3_4B6C_767D_41D0_F228F15564C6_es_0_2.webp
+
+### Popup Imágen
+
+### Subtítulos de Video
+
+### Título
+video_5CB9C38F_4B77_7AD6_41B5_2E3FB8D5B519.label = Casino
+panorama_459F59CE_4B36_F656_41D2_B9181CEE792A.label = Trueno 360
+
+### Video
+videolevel_5F923E03_4B6D_B9DE_41C0_F9F27AE5E7F6.url = media/video_5CB9C38F_4B77_7AD6_41B5_2E3FB8D5B519_es.mp4
+videolevel_5F923E03_4B6D_B9DE_41C0_F9F27AE5E7F6.posterURL = media/video_5CB9C38F_4B77_7AD6_41B5_2E3FB8D5B519_poster_es.jpg
+
+## Skin
+
+### Imágen
+Image_5137A75F_4B75_7A77_41B7_947C8F909E2A.url = skin/Image_5137A75F_4B75_7A77_41B7_947C8F909E2A_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Actividad 3
